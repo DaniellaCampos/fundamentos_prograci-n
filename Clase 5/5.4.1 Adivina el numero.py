@@ -1,4 +1,4 @@
-from random import randint #investigue esto porque no sabía como generar números aleatorios
+from random import randint
 
 secreto = randint(1, 100)
 respuesta = 0
